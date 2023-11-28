@@ -1,6 +1,4 @@
-h1 {
-    color: red;
-}
-.navbar-toggler{
-    background-color: #8EB9E3 ;
+.container{
+    justify-content:center;
+    
 }
